@@ -1,9 +1,24 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=auto,initial-scale=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="icon" href="./assets/favicon.ico" />
     <link href="./styles.css" rel="stylesheet" />
+    <style>
+      .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        background-color: rgb(9, 61, 14); opacity: 85%
+      }
+      
+      .flex-container > div {
+        background-color: #f1f1f1;
+        margin: 10px;
+        padding: 5px;
+        font-size: 30px;
+        
+      }
+      </style>
   </head>
   <body>
     <div class="Root" style="background-color: #000000">
@@ -15,29 +30,18 @@
        <h2 class="Profile-Title" style="color: #8ce3e9; Position:fixed; left:30px; top: 90px">
               Crypto for the modern world.</h2>
 
-     <div class="Contact-Container"><a 
-        href="-----------------------">
-        <button style="background-color: rgb(35, 85, 68); color: #ffffff; Width: 140px; Position:fixed; font:16px Arial; left:30px; top:175px" 
-             >E-Shop</button></a>
-      </div>
-
-      <div class="Contact-Container"><a 
-        href="---------------------------">
-        <button style="background-color: rgb(35, 85, 68); color: #ffffff; Width: 140px; Position:fixed; font:16px Arial; left:180px; top:175px" 
-             >Exchange</button></a>
-      </div>
-
-      <div class="Contact-Container"><a 
-        href="About Us.html">
-        <button style="background-color: rgb(35, 85, 68); color: #ffffff; Width: 140px; Position:fixed; font:16px Arial; left:330px; top:175px" 
-             >About Us</button></a>
-      </div>
-
-      <div class="Contact-Container"><a 
-        href="--------------">
-        <button style="background-color: rgb(35, 85, 68); color: #ffffff; Width: 140px; Position:fixed; font:16px Arial; left:480px; top:175px" 
-             >My Account</button></a>
-      </div>
+              <div class="flex-container" style="position: fixed; left: 30px; top: 145px;">
+                <div
+                   class="Contact-Container"><a 
+                   href="-----------------------">
+                   <button>E-Shop</button></a></div>
+                <div class="Contact-Container"><a 
+                  href="--------------">
+                  <button>Exchange</button></a></div>
+                <div class="Contact-Container"><a 
+                  href="About Us.html">
+                  <button>About Us</button></a></div>
+              </div>
 
      <div class="Contact-Container"><a
           href="https://discord.gg/Ktx6Zvm" class="Social-Link">
@@ -63,17 +67,14 @@
       </div>
 
      <div class="Bio-Container">
-        <p class="Bio-Content" style="color: #ffffff; font:12px Arial; Position:fixed; left:5px; bottom: 5px;">
+        <p class="Bio-Content" style=" color: #ffffff; font:12px Arial; Position:fixed; left:5px; bottom: 5px;">
               this will be little text at the very bottom
-      </div>
-     <div
-      class="Image-Container"
-      style="
-      background-image: url(./assets/image.png);
-      background-repeat: no-repeat;
-      background-size: cover;
-     " 
-     ></div>
+        </div>
+     <img src="assets/image.png" alt="trippy pic"
+        style="enable-background: 0vh;"
+
+        
+     >
 
   </body>
 </html>
