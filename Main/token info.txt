@@ -1,0 +1,55 @@
+I am writing this out, to copy and paste to deliver to you. Thank you for your help !
+I will be buying a domain from unstoppabledomains.com. this will be a .crypto domain. 
+And I can host it through pinata.cloud. it is free up to 1g of storage. Being a Dapp, 
+I am not sure how much storage I will need. Hopefully, this can give us a setup online.
+ I have already created off of a template (check github) a very simple website, with 
+some rough idea sketched on to it already. The simpler the better to me.
+I really like the infrastructure from the website app.airnft.com. 
+What I need is a simple way to connect wallet to website and have a simple 
+account from their wallet address. From creating an account just like the 
+airnft you can post a ‘project’ that other people with the token can donate 
+their token towards. The goal is for community to continuously perpetuate the coin
+ by creating projects that themselves are involved in.
+ so if you want to start a project, the project minimum will be xxxxx token +gas.
+ People who have token can donate to this person or project if they believe in it strong enough. 
+The person who starts the project can choose whether this is a personal goal or public project.
+ Wich personal will have coins claimed for themselves, and public being one that someone can 
+‘claim’ the project; for instance, cleaning up a park. And claim the tokens donated toward the project
+ after public verification. If you start a public project, I want there to be total amount donated %
+ to go towards creator, creating token ambassadors.
+ I am truly hoping to have ambassadors that go around creating projects in communities, and people
+ who are invested in the coin will do the projects in reward for the coin. Creating more value in the coin,
+ and the coin gaining value by creating value in communities.
+The more I can be involved with development the better, I want to be a ambassador for my own token.
+ I will start marketing on poocoin. I found their ad partner, after I do a small liquidity pool
+ for people that I know, and I want to share some of this crypto knowledge with, I want this to
+ be as community owned as possible (community liquidity pool, which will be for people with a lot of coin).
+ That’s why I was asking about deploying a smart contract to a website. I want my website to own the token, to be more
+ trustworthy. But not totally sure if that’s possible.
+
+Here is Token. I own wallet with the 8quad token.
+https://bscscan.com/token/0x88cbea8e881b6d59f14945e53d5995fafc0d49d7
+
+Check out my github that has my very simple website layout here. You are more than welcome to completely scrap this as well. As I have no idea what platform to even begin on. https://github.com/AHarmles/Hook-Token
+Some extra verification;
+
+https://www.instagram.com/aharmles/
+https://twitter.com/aharmleskitty
+https://www.facebook.com/profile.php?id=100000011865088
+
+The media will never live the life we live every day. 
+Only we know how we can truly make the world we live in,
+ a better place. From anywhere in the world, crypto can connect
+ you to thousands, to millions that can instantly be a part of your
+ community. Let’s create platforms that give voice to the smallest 
+communities in the world. To the people that live real bullshit life every day, 
+paycheck to paycheck, tavern, to pub. You are the ones that see the hardest times, 
+that have no time to give back to the world. I ask of you to leave life better than 
+how you found it. It’s simple, and hard at the same time. This is what this token
+ was created for. For the people, that don’t have time to spend on themselves. 
+Make yourself important. Make yourself the main character of your story. You deserve it.
+ Because I know, once you have found your true self. You won’t just be living a life,
+ you will be living your life, helping others. Use my platform for your voice and make yourself
+ into what you know you want to become. Blessings to you all.
+
+-James Hook, Token Ambassador
