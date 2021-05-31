@@ -30,7 +30,11 @@ The more I can be involved with development the better, I want to be a ambassado
 Here is Token. I own wallet with the 8quad token.
 https://bscscan.com/token/0x88cbea8e881b6d59f14945e53d5995fafc0d49d7
 
-Check out my github that has my very simple website layout here. You are more than welcome to completely scrap this as well. As I have no idea what platform to even begin on. https://github.com/AHarmles/Hook-Token
+Check out my github that has my very simple website layout here. You are more than welcome to completely scrap this as well. 
+As I have no idea what platform to even begin on.
+
+ https://github.com/AHarmles/Hook-Token
+
 Some extra verification;
 
 https://www.instagram.com/aharmles/
